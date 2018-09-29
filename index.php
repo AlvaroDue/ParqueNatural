@@ -1,6 +1,7 @@
 <html>
  <head>
    <link href="css/style.css" rel="stylesheet" type="text/css">
+   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
  </head>
   <body>
     <div class="container">
@@ -10,12 +11,12 @@
       -->
       <nav>
         <ul id="menu">
-          <li><a href="">Inicio</a></li>
+          <li><a href="index.php">Inicio</a></li>
           <li><a href="">Actividades</a>
             <ul>
-              <li><a href="">Frontend</a></li>
-              <li><a href="">Backend</a></li>
-              <li><a href="">Mobile</a></li>
+              <li><a href="">Caminata</a></li>
+              <li><a href="">Remo</a></li>
+              <li><a href="">Campamento</a></li>
             </ul>
           </li>
           <li><a href="galeria.php">Galeria</a></li>
@@ -24,8 +25,17 @@
       </nav>
     </header>
     <section>
-
-    
+      <div id="slider">
+          <div id="contentSlider">
+            <img src="img/slider.jpg" alt="" class="slide">
+            <div class="textSlide">
+              <div class="lineup"></div>
+              <p class="titleSlider">Bienvenido</p>
+              <p class="subtitleSlider">al Parque Natural</p>
+              <div class="linedown"></div>
+            </div>
+          </div>
+      </div>
     </section>
   </div>
   </body>

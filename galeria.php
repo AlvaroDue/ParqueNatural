@@ -13,7 +13,7 @@
   <header>
     <nav>
       <ul id="menu">
-        <li><a href="">Inicio</a></li>
+        <li><a href="index.php">Inicio</a></li>
         <li><a href="">Actividades</a>
           <ul>
             <li><a href="">Frontend</a></li>
@@ -35,7 +35,7 @@
       </a>
     </div>
     <div class="desc">
-      Agrega descripción de la imagen.
+      Campamento
     </div>
   </div>
   <div class="gallery">
@@ -45,7 +45,7 @@
       </a>
     </div>
     <div class="desc">
-      Agrega descripción de la imagen.
+      Sendero
     </div>
   </div>
   <div class="gallery">
@@ -55,7 +55,7 @@
       </a>
     </div>
     <div class="desc">
-      Agrega descripción de la imagen.
+      Comida
     </div>
   </div>
   <div class="gallery">
@@ -65,7 +65,7 @@
       </a>
     </div>
     <div class="desc">
-      Agrega descripción de la imagen.
+      Actividades en el lago
     </div>
   </div>
  </div>

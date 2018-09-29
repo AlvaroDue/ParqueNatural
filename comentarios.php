@@ -13,7 +13,7 @@
     <header>
       <nav>
         <ul id="menu">
-          <li><a href="">Inicio</a></li>
+          <li><a href="index.php">Inicio</a></li>
           <li><a href="">Actividades</a>
             <ul>
               <li><a href="">Frontend</a></li>
